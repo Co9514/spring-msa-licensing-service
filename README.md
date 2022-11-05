@@ -12,3 +12,4 @@
 2. Spring MVC
 3. Spring HATEOAS
 4. Spring Actuator
+5. docker & docker compose
